@@ -8,6 +8,8 @@ This project focuses on building a machine learning model using the SVHN (Street
 
 ## 📁 Files
 
+NB: Filesize of extra_32x32.mat is too large to upload here. Available at http://ufldl.stanford.edu/housenumbers/ 
+
 | File                       | Description                                                             |
 | -------------------------- | ----------------------------------------------------------------------- |
 | `extra_32x32.mat`          | SVHN dataset in MATLAB `.mat` format (images + labels)                  |
@@ -133,3 +135,4 @@ pip install numpy matplotlib scipy scikit-learn jupyter
 * Evaluate using confusion matrix and classification report
 
 ---
+
